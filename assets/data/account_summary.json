@@ -1,0 +1,55 @@
+{
+    "balance": 7000,
+    "cards": [
+        {
+            "type": "visa",
+            "account": "Salary",
+            "balance": 2230,
+            "card_number": "093339482834"
+        },
+        {
+            "type": "visa",
+            "account": "Saving Account",
+            "balance": 5566,
+            "card_number": "093339484552"
+        },
+        {
+            "type": "visa",
+            "account": "Saving Account",
+            "balance": 3948,
+            "card_number": "093339488394"
+        }
+    ],
+    "loans": [
+        {
+            "account_number": "8375638",
+            "balance": 78.93,
+            "interest_rate": 3.5,
+            "expired_date": "12/12/2023"
+        }
+    ],
+    "currencies_market": [
+        {
+            "curr;ency": "usd",
+            "buy": 78.92,
+            "sell": 78.92
+        },
+        {
+            "curr;ency": "eur",
+            "buy": 78.92,
+            "sell": 78.92
+        }
+    ],
+    "metals_market": [
+        {
+            "currency": "gold",
+            "buy": 78.92,
+            "sell": 78.92
+        },
+        {
+            "curr;ency": "silver",
+            "buy": 78.92,
+            "sell": 78.92
+        }
+    ]
+}
